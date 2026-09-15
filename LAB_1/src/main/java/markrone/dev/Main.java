@@ -16,4 +16,4 @@ public class Main {
         System.out.println("smth");
         System.out.println(2+2);
     }
-}
+} // дайте денег 
